@@ -173,9 +173,9 @@ nav ul li {
 }
 here starts the issue
 .projects {
-  background-color: var(--bg-color);
   padding: 32px 0;
   margin-top: 2rem;
+  background-color: #535E18;
 }
 
 .project-pic {
@@ -186,19 +186,23 @@ here starts the issue
 .projects-container {
   display: flex;
   justify-content: center;
+  background-color: #535E18;
 }
 .projects-title {
   text-align: center;
   margin-bottom: 1rem;
+  background-color: #535E18;
 }
 
 .project-container {
   text-align: center;
   width: 21.875rem;
   padding: 1rem;
+  background-color: #535E18;
 }
 .project-container p {
   padding: 0.4rem;
+
 }
 
 .project-title {
@@ -218,9 +222,10 @@ here starts the issue
 }
 
   .projects {
-  background-color: var(--bg-color);
+
   padding: 32px 0;
   margin-top: 2rem;
+  background-color: #535E18;
 }
 
 .project-pic {
@@ -281,7 +286,7 @@ here starts the issue
   transition: var(--transition);
 }
 .submit-btn:hover {
-  background-color: var(--primary-color);
+  background-color: green;
   border: 2px solid var(--primary-color);
   cursor: pointer;
 }
